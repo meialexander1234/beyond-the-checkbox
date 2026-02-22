@@ -1,0 +1,28 @@
+# Data files (not shared due to license restrictions)
+*.csv
+*.RData
+*.rdata
+*.xlsx
+*.xls
+
+# Output directory
+output/
+
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+Manifest.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+*.lst
