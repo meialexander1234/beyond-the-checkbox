@@ -1,0 +1,18 @@
+term,estimate,std_error,t_stat,p_value
+(Intercept),1.07456,0.006342,169.436,0.0
+tenure,0.080623,0.000295,273.298,0.0
+multiple,-0.047686,0.032171,-1.482,0.13834
+high_api,0.107893,0.003354,32.168,0.0
+high_interp,-0.221632,0.002792,-79.381,0.0
+edu_num,0.448597,0.00185,242.485,0.0
+tenure & multiple,0.010381,0.004437,2.34,0.019284
+tenure & high_api,0.009616,0.000452,21.274,0.0
+multiple & high_api,-0.060385,0.0387,-1.56,0.11876
+tenure & high_interp,0.003934,0.000424,9.278,0.0
+multiple & high_interp,-0.029646,0.049647,-0.597,0.550507
+high_api & high_interp,0.058466,0.004415,13.243,0.0
+tenure & multiple & high_api,-0.002893,0.005528,-0.523,0.600974
+tenure & multiple & high_interp,-0.006153,0.008241,-0.747,0.455064
+tenure & high_api & high_interp,-2.4e-5,0.000677,-0.035,0.97208
+multiple & high_api & high_interp,-0.06237,0.058604,-1.064,0.287329
+tenure & multiple & high_api & high_interp,0.002874,0.009766,0.294,0.768758

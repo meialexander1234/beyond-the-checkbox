@@ -1,0 +1,2 @@
+test,status,alternative
+Dose-Response Test,Cannot be completed - raw BISG probabilities not available,Request BISG probabilities from data provider or re-run BISG algorithm

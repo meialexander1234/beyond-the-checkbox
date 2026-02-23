@@ -1,0 +1,18 @@
+term,estimate,std_error
+(Intercept),0.902544,0.00586
+tenure,0.080048,0.000246
+multiple,-0.025987,0.028269
+high_api,0.134578,0.002679
+covid_period,0.149625,0.003782
+edu_num,0.465931,0.001766
+tenure & multiple,0.004735,0.004367
+tenure & high_api,0.008689,0.000387
+multiple & high_api,-0.105369,0.033539
+tenure & covid_period,-0.002343,0.000456
+multiple & covid_period,-0.049724,0.057615
+high_api & covid_period,0.069717,0.005957
+tenure & multiple & high_api,-0.000358,0.00529
+tenure & multiple & covid_period,0.007628,0.007449
+tenure & high_api & covid_period,-0.004426,0.000727
+multiple & high_api & covid_period,-0.023979,0.069124
+tenure & multiple & high_api & covid_period,-0.000716,0.009162
